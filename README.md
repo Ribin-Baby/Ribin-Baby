@@ -19,7 +19,8 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ribin-Baby&show_icons=true&locale=en&layout=compact" alt="Ribin-Baby" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ribin-Baby&" alt="Ribin-Baby" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Ribin-Baby&theme=dark&" alt="Ribin-Baby" /></p>
+
 <!---
 Ribin-Baby/Ribin-Baby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
