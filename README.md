@@ -11,16 +11,22 @@
 - 📫 Reach me @ribinkannoth@gmail.com ...
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ribin-baby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ribin Baby" height="30" width="40" /></a>
-</p>
-[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md.svg)](https://huggingface.co/Ribin)
+<span style="display: inline-block; margin-right: 30px;">
+  <a href="https://www.linkedin.com/in/ribin-baby/">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ribin Baby" height="30" width="40" />
+  </a>
+</span>
+
+<span style="display: inline-block;">
+  <a href="https://huggingface.co/Ribin">
+    <img align="center" src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg" alt="Ribin Baby" height="120" width="160" />
+  </a>
+</span>
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ribin-Baby&show_icons=true&locale=en&layout=compact" alt="Ribin-Baby" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Ribin-Baby&theme=dark&" alt="Ribin-Baby" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ribin-Baby" alt="Ribin Baby" /></a>
 <!---
 Ribin-Baby/Ribin-Baby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
