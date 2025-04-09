@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ribin-baby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ribin Baby" height="30" width="40" /></a>
 </p>
+[![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md.svg)](https://huggingface.co/Ribin)
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ribin-Baby&show_icons=true&locale=en&layout=compact" alt="Ribin-Baby" /></p>
