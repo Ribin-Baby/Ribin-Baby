@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ribin-Baby&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ribin-Baby" style="padding-right:20px;" />
 </p>
 <br />
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ribin-Baby" alt="Ribin-Baby" /></a></p>
 
 <!--Start Intro-->  
 - 👀 I’m interested in Machine Learning | Data Science | NLP | Computer vision | Embedded Systems
@@ -16,6 +13,10 @@
 - 💞️ I’m looking to collaborate on any live OpenSource projects / ideas especially in AI / ML  ...
   
 <!--End Intro-->
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ribin-Baby" alt="Ribin-Baby" /></a></p>
+
 <table width="100%">
   <tr>
     <td width="50%">
