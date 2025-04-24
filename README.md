@@ -1,33 +1,72 @@
 <h1 align="center"> 👋 Hi, I’m @Ribin-Baby </h1>
 
 <h2 align="center">  ML Engineer | Programmer | Electronic Hobbyist </h2>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ribin-Baby&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ribin-Baby" style="padding-right:20px;" />
+</p>
+<br />
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ribin-Baby" alt="Ribin-Baby" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ribin-Baby&label=Profile%20views&color=0e75b6&style=flat" alt="Ribin-Baby" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ribin-Baby" alt="Ribin-Baby" /></a> </p>
-
+<!--Start Intro-->  
 - 👀 I’m interested in Machine Learning | Data Science | NLP | Computer vision | Embedded Systems
 - 🌱 I’m a PROgrammer who likes problem solving ...
 - 💞️ I’m looking to collaborate on any live OpenSource projects / ideas especially in AI / ML  ...
-- 📫 Reach me @ribinkannoth@gmail.com ...
+  
+<!--End Intro-->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ribin-Baby">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ribin-Baby&show_icons=true&locale=en&layout=compact" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ribin-Baby">
+          <img align="center" src="https://streak-stats.demolab.com?user=Ribin-Baby" alt="Ribin Baby" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<span style="display: inline-block; margin-right: 30px;">
-  <a href="https://www.linkedin.com/in/ribin-baby/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ribin Baby" height="30" width="40" />
-  </a>
-</span>
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:ribinkannoth@gmail.com" target="_blank">
+<img src="https://user-images.githubusercontent.com/54618801/63845533-ac1b0f80-c9bc-11e9-9d37-e2e03e4d2aee.png" width=50 height=50 alt="ribinkannoth@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-<span style="display: inline-block;">
-  <a href="https://huggingface.co/Ribin">
-    <img align="center" src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg" alt="Ribin Baby" height="120" width="160" />
-  </a>
-</span>
+<a href="https://twitter.com/RibinBaby1" target="_blank">
+<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" width=50 height=50 alt="RibinBaby1" style="margin-bottom: 5px;" />
+</a>
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ribin-Baby&show_icons=true&locale=en&layout=compact" alt="Ribin-Baby" /></p>
+<a href="https://www.githubcom/Ribin-Baby" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=50 height=50 alt="Ribin-Baby" style="margin-bottom: 5px;" />
+</a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ribin-Baby" alt="Ribin Baby" /></a>
+<a href="https://www.linkedin.com/in/ribin-baby/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  
+</a>
+<a href="https://huggingface.co/Ribin" target="_blank">
+<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg" width=160 height=50 alt="huggingface" style="margin-bottom: 5px;" />
+</a>
+</div>
 <!---
 Ribin-Baby/Ribin-Baby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
