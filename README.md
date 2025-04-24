@@ -43,7 +43,7 @@
 <div align="center">
   
 <a href="mailto:ribinkannoth@gmail.com" target="_blank">
-<img src="https://user-images.githubusercontent.com/54618801/63845533-ac1b0f80-c9bc-11e9-9d37-e2e03e4d2aee.png" width=50 height=50 alt="ribinkannoth@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://github.com/Kiran1689/kiran1689/blob/main/gmail.png" width=50 height=50 alt="ribinkannoth@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/RibinBaby1" target="_blank">
@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://www.githubcom/Ribin-Baby" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=50 height=50 alt="Ribin-Baby" style="margin-bottom: 5px;" />
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" width=50 height=50 alt="Ribin-Baby" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/ribin-baby/" target="_blank">
