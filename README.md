@@ -15,7 +15,11 @@
 <!--End Intro-->
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ribin-Baby" alt="Ribin-Baby" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Ribin-Baby&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Ribin-Baby&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Ribin-Baby&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture></a></p>
 
 <table width="100%">
   <tr>
