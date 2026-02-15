@@ -44,23 +44,23 @@
 <div align="center">
   
 <a href="mailto:ribinkannoth@gmail.com" target="_blank">
-<img src="https://github.com/Kiran1689/kiran1689/blob/main/gmail.png" width=50 height=50 alt="ribinkannoth@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://github.com/Ribin-Baby/Ribin-Baby/blob/main/icons/gmail.png" width=50 height=50 alt="ribinkannoth@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/RibinBaby1" target="_blank">
-<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" width=50 height=50 alt="RibinBaby1" style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/Ribin-Baby/Ribin-Baby/refs/heads/main/icons/twitter.svg" width=50 height=50 alt="RibinBaby1" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/Ribin-Baby" target="_blank">
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" width=50 height=50 alt="Ribin-Baby" style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/Ribin-Baby/Ribin-Baby/refs/heads/main/icons/github.svg" width=50 height=50 alt="Ribin-Baby" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/ribin-baby/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/Ribin-Baby/Ribin-Baby/refs/heads/main/icons/linked-in-alt.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
   
 </a>
 <a href="https://huggingface.co/Ribin" target="_blank">
-<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg" width=160 height=50 alt="huggingface" style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/Ribin-Baby/Ribin-Baby/refs/heads/main/icons/follow-me-on-HF-xl.svg" width=160 height=50 alt="huggingface" style="margin-bottom: 5px;" />
 </a>
 </div>
 <!---
